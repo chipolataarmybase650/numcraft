@@ -149,3 +149,9 @@ htmlcov/
 # Build artifacts
 *.pyc
 *.pyo
+
+# Debug and test files
+debug_*.py
+test_agent_*.py
+*_test.py
+!tests/
